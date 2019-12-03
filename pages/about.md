@@ -1,27 +1,28 @@
 ---
 layout: page
 title: about
-description: Benjamin Harvey is...
+description: Tianyu Zhang is currently a second year graduate student in Engineering Management major in the George Washingtong University. With a focus on economic, cost and finance engineering. 
 ---
 
 #### <a name="currentposition"></a>current position
-{Insert text here}
+{Second year grad}
 
 
 #### <a name="previousposition"></a>previous positions
-{Insert text here}
+{Graguated in 2018, Xidian University, China}
 
 
 #### <a name="researchbackground"></a>research background
-{Insert text here}
+{Quantum telecommunications, Electrical Engineering, Data Analysis}
 
 
 #### <a name="education"></a>ecucation
-{Insert text here}
+{Xidian University, Bachelor's Dedree, 2014 to 2018;
+ The George Washington University, Master's degree, 2018 to 2020}
 
 
 #### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets//Users/llately/Desktop/Resume_Tianyu_111b.pdf)
 
 ---
 
