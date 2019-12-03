@@ -27,7 +27,7 @@ keywords: statistics, data analytics
   </td>
   <td class="right">
     <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/tian2016_fig4.png" alt="assets/publpics/tian2016_fig4.png" title="assets/publpics/tian2016_fig4.png"/>
+        <img src="assets/publpics/2.png" alt="22" title="22"/>
     </a>
   </td>
 </tr>
