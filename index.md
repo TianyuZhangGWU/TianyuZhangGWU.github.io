@@ -34,12 +34,12 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="/Users/llately/Desktop/pics/4.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+        <img src="/Users/llately/Desktop/pics/4.png" alt="/Users/llately/Desktop/pics/4.png" title="/Users/llately/Desktop/pics/4.png"/>
     </a>
   </td>
   <td class="right">
     <a href="pages/publpics/isletc6_fig4.html">
-        <img src="/Users/llately/Desktop/pics/2.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+        <img src="/Users/llately/Desktop/pics/2.png" alt="/Users/llately/Desktop/pics/2.png" title="/Users/llately/Desktop/pics/2.png"/>
     </a>
   </td>
 </tr>
