@@ -1,17 +1,17 @@
 ---
 layout: frontpage
-title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+title: Tianyu Zhang
+description: Tianyu is a second year graduate student in the George Washington University. She currently is persuing the Master's degree in Engineering Management with a focus in Economics, Cost and Finance Engineering.
 keywords: statistics, data analytics
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
+          <li><a href="{{ BASE_PATH }}/Users/llately/Desktop/Resume_Tianyu_111b.pdf">cv</a></li>
+          <li><a href="https://github.com/tianyuzhanggwu">github</a></li>
           <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+          <li><a href="https://https://www.linkedin.com/in/gwu-tianyu-zhang/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
